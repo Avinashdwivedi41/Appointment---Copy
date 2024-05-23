@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b19dc8d3.css",
+    "main.js": "/static/js/main.ffe97fad.js",
+    "static/js/453.258b012d.chunk.js": "/static/js/453.258b012d.chunk.js",
+    "static/media/avinash.jpg": "/static/media/avinash.675b616bd3a90aa95e53.jpg",
+    "static/media/hos.jpg": "/static/media/hos.ae4a8aaaa87f76a8d2b6.jpg",
+    "static/media/error.4b5472f1.gif": "/static/media/error.4b5472f1.4b5472f14025469a16d7.gif",
+    "static/media/img1.815eb17a.jpg": "/static/media/img1.815eb17a.815eb17ad747be75950d.jpg",
+    "static/media/footer.d025f458.jpg": "/static/media/footer.d025f458.d025f458ac691ab6e8fa.jpg",
+    "static/media/member6.be2a77ad.jpg": "/static/media/member6.be2a77ad.be2a77adde3dc48f9d5b.jpg",
+    "static/media/member4.9045579a.jpg": "/static/media/member4.9045579a.9045579a47c3fd89b17c.jpg",
+    "static/media/member1.22ac1d59.jpg": "/static/media/member1.22ac1d59.22ac1d594f69ddaf3e08.jpg",
+    "static/media/member2.d03a0686.jpg": "/static/media/member2.d03a0686.d03a0686030bcd2f05ec.jpg",
+    "static/media/pic-2.0593bc2f.jpg": "/static/media/pic-2.0593bc2f.0593bc2fd8a13cf8c19f.jpg",
+    "static/media/member3.0d822ecc.jpg": "/static/media/member3.0d822ecc.0d822ecc51b2532abe0e.jpg",
+    "static/media/member5.24eb1821.jpg": "/static/media/member5.24eb1821.24eb182159ea2d58610f.jpg",
+    "static/media/pic-1.ad1ed7ee.jpg": "/static/media/pic-1.ad1ed7ee.ad1ed7ee8284087fe9ee.jpg",
+    "static/media/doctor.webp": "/static/media/doctor.1546dabfd508d9621051.webp",
+    "static/media/pic-3.fa689b10.jpg": "/static/media/pic-3.fa689b10.fa689b1037dbf69567a3.jpg",
+    "static/media/bg1.c53c8971.jpg": "/static/media/bg1.c53c8971.c53c8971d16c9a1033ae.jpg",
+    "static/media/shape1.1112f1ac.png": "/static/media/shape1.1112f1ac.1112f1ac0dc18e511a91.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.b19dc8d3.css.map": "/static/css/main.b19dc8d3.css.map",
+    "main.ffe97fad.js.map": "/static/js/main.ffe97fad.js.map",
+    "453.258b012d.chunk.js.map": "/static/js/453.258b012d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b19dc8d3.css",
+    "static/js/main.ffe97fad.js"
+  ]
+}
